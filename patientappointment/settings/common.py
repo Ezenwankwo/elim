@@ -101,7 +101,7 @@ TEMPLATES = [
 #}
 
 import dj_database_url 
-DATABASES = {'default': dj_database_url.parse('postgres://jqtpelyhqjpccl:b210014b8a52852403e0047040d4e665c6d28401ac83ec7a6afcc9d2ff941dbc@ec2-107-20-186-238.compute-1.amazonaws.com:5432/dafs3oulj27jf7')}
+DATABASES = {'default': dj_database_url.parse('postgres://mcexwaxxkutdkq:f832082340a5c585b3fc06a0a68ca53eeaf518e7c42a08165df916195ca30736@ec2-107-21-103-146.compute-1.amazonaws.com:5432/dretrp2giu9o9')}
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
