@@ -15,4 +15,4 @@ ALLOWED_HOSTS = ['*']
 
 
 # Address of RedisToGo instance
-BROKER_URL = 'redis://redistogo:c036eb72be7ea981f638be44d0d72302@angelfish.redistogo.com:11496/'
+BROKER_URL = 'redis://redistogo:95e182792a120294f4072ed42038ba1f@albacore.redistogo.com:10155/'
